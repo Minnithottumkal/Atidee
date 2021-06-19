@@ -1,0 +1,6 @@
+10:58:15,736 DEBUG devpinoyLogger:113 - Config file loaded !!!
+10:58:15,743 DEBUG devpinoyLogger:126 - OR file loaded !!!
+10:58:19,894 DEBUG devpinoyLogger:161 - Chrome Launched !!!
+10:58:28,441 DEBUG devpinoyLogger:168 - Navigated to : https://dev.atidee.com/#/
+10:58:32,086 DEBUG devpinoyLogger:34 - Login Successfully
+11:00:41,779 DEBUG devpinoyLogger:320 - test execution completed !!!

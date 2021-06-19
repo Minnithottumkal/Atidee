@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.simplogics.testcases.CompanyEdit">
+        <methods>
+          <include name="companyedit" invocation-numbers="0"/>
+          <include name="Emailsend"/>
+          <include name="tearDown"/>
+          <include name="setReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.simplogics.testcases.CompanyEdit -->
+      <class name="com.simplogics.testcases.Companylocationoption">
+        <methods>
+          <include name="Emailsend"/>
+          <include name="companylocationoption"/>
+          <include name="tearDown"/>
+          <include name="setReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.simplogics.testcases.Companylocationoption -->
+      <class name="com.simplogics.testcases.CreateCompany">
+        <methods>
+          <include name="Emailsend"/>
+          <include name="createCompany" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="setReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.simplogics.testcases.CreateCompany -->
+      <class name="com.simplogics.testcases.UserClearSession">
+        <methods>
+          <include name="Emailsend"/>
+          <include name="tearDown"/>
+          <include name="userClearSession"/>
+          <include name="setReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.simplogics.testcases.UserClearSession -->
+      <class name="com.simplogics.testcases.Useredit">
+        <methods>
+          <include name="userEdit"/>
+          <include name="Emailsend"/>
+          <include name="tearDown"/>
+          <include name="setReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.simplogics.testcases.Useredit -->
+      <class name="com.simplogics.testcases.CreateUsers">
+        <methods>
+          <include name="createUsers" invocation-numbers="0"/>
+          <include name="Emailsend"/>
+          <include name="tearDown"/>
+          <include name="setReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.simplogics.testcases.CreateUsers -->
+      <class name="com.simplogics.testcases.Visits">
+        <methods>
+          <include name="Emailsend"/>
+          <include name="visits"/>
+          <include name="tearDown"/>
+          <include name="setReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.simplogics.testcases.Visits -->
+      <class name="com.simplogics.testcases.CreateVisits">
+        <methods>
+          <include name="Emailsend"/>
+          <include name="createVisits" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="setReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.simplogics.testcases.CreateVisits -->
+      <class name="com.simplogics.testcases.Users">
+        <methods>
+          <include name="users"/>
+          <include name="Emailsend"/>
+          <include name="tearDown"/>
+          <include name="setReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.simplogics.testcases.Users -->
+      <class name="com.simplogics.testcases.CreateSpace">
+        <methods>
+          <include name="Emailsend"/>
+          <include name="tearDown"/>
+          <include name="createSpace"/>
+          <include name="setReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.simplogics.testcases.CreateSpace -->
+      <class name="com.simplogics.testcases.UserChangePassword">
+        <methods>
+          <include name="Emailsend"/>
+          <include name="userChnagepassword" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="setReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.simplogics.testcases.UserChangePassword -->
+      <class name="com.simplogics.testcases.UserSearch">
+        <methods>
+          <include name="userSearch" invocation-numbers="0"/>
+          <include name="Emailsend"/>
+          <include name="tearDown"/>
+          <include name="setReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.simplogics.testcases.UserSearch -->
+      <class name="com.simplogics.testcases.CompanySearch">
+        <methods>
+          <include name="Emailsend"/>
+          <include name="companySearch" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="setReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.simplogics.testcases.CompanySearch -->
+      <class name="com.simplogics.testcases.ManageCompanyLocation">
+        <methods>
+          <include name="Emailsend"/>
+          <include name="manageCompanyLocation" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="setReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.simplogics.testcases.ManageCompanyLocation -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
