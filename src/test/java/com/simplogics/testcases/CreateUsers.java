@@ -12,7 +12,7 @@ import com.simplogics.base.BaseData;
 import com.simplogics.utilities.TestUtil;
 
 /**
- * @author Aswathy
+ * @author Aswathy minni
  *
  */
 public class CreateUsers extends BaseData{
@@ -46,6 +46,7 @@ public class CreateUsers extends BaseData{
 		Thread.sleep(2000);
 		Asserttoast(OR.getProperty("expected_usercreate_toast"),"user_create_toast_CSS");
 		Thread.sleep(5000);
+
 	
 	}
 
